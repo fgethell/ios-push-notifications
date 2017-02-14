@@ -13,6 +13,7 @@ This project is an iOS Push notification system using APNS (Apple Push Notificat
 5. To use the crontab feature, make sure it is installed in your linux distributary. To add your script to crontab list, simply do: 
 
 root@username: crontab -e 
+
 Press enter, now go into the edit mode of the crontab file by pressing "i". In the first line, just add:
 
 */30 * * * * lynx http://yourdomainhere/fbcheck.php
