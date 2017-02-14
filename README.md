@@ -21,4 +21,4 @@ Press escape and type :wq, press enter and its done. fbcheck.php will be execute
 
 Generated notification:
 
-![image](https://http://fgethell.xyz/notification.jpeg) 
+![image](http://http://fgethell.xyz/notification.jpeg) 
