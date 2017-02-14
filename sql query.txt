@@ -1,0 +1,6 @@
+CREATE TABLE `iosfinal` (
+ `id` int(10) NOT NULL AUTO_INCREMENT,
+ `token` varchar(300) NOT NULL,
+ PRIMARY KEY (`id`),
+ UNIQUE KEY `token` (`token`)
+) ENGINE=InnoDB AUTO_INCREMENT=742 DEFAULT CHARSET=latin1
