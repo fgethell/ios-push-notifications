@@ -18,3 +18,7 @@ Press enter, now go into the edit mode of the crontab file by pressing "i". In t
 
 */30 * * * * lynx http://yourdomainhere/fbcheck.php
 Press escape and type :wq, press enter and its done. fbcheck.php will be executed every 30 minutes.
+
+Generated notification:
+
+![image](https://http://fgethell.xyz/notification.jpeg) 
